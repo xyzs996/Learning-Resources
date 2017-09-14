@@ -1,5 +1,4 @@
 # 学习资源集合
-学习资源集合
 1.awesome项目合集，包含软件，硬件，多语言的学习资料：
 https://github.com/sindresorhus/awesome
 

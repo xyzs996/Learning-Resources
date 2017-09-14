@@ -2,7 +2,7 @@
 1.awesome项目合集，包含软件，硬件，多语言的学习资料：
 https://github.com/sindresorhus/awesome
 
-2.awesome，蟒蛇，蟒蛇资源列表
+2.python资源列表
 https://github.com/vinta/awesome-python
 
 3.公开API（JSON）列表
